@@ -1,0 +1,795 @@
+ANEXO I
+PROTOCOLO GENERAL DE ACTUACIÓN PARA LA REALIZACIÓN DE
+ALLANAMIENTOS Y REQUISAS PERSONALES.
+(Texto Ordenado 2017)
+
+I. REGLAS GENERALES Y DEFINICIONES
+1. Objeto: El presente protocolo de actuación (en adelante “PGA”) tiene como objeto
+establecer los requisitos, procedimientos y pautas para la realización de allanamientos y requisas personales en el marco de una investigación criminal cuando en determinado lugar existan cosas vinculadas a la investigación del delito, o allí pueda
+efectuarse la detención del imputado o de alguna persona evadida o sospechada de
+criminalidad, procurando la preservación del lugar del hecho, de los rastros y elementos probatorios y el aseguramiento de la cadena de custodia del material secuestrado.
+2. Generalidades: El presente Protocolo es de aplicación obligatoria en todo el país
+para todo el personal de GENDARMERÍA NACIONAL ARGENTINA, PREFECTURA
+NAVAL ARGENTINA, POLICÍA FEDERAL ARGENTINA y POLICÍA DE SEGURIDAD
+AEROPORTUARIA, debiéndose tener en cuenta que su accionar debe ajustarse en
+un todo a la Constitución Nacional, las leyes del derecho interno y los protocolos vigentes.
+2.1. Orden de Prelación: Los protocolos que traten materias específicas, tendrán
+jerarquía superior a las disposiciones aquí enunciadas.
+3. Definiciones. A los fines del presente PGA se entiende por:
+3.1 Allanamiento: Es el acto procesal que implica el ingreso a un domicilio, recinto
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 1 de 26
+
+de acceso restringido u otro lugar dentro del marco de una investigación criminal,
+consistente en el registro del mismo. Este acto se realiza mediante el uso de la fuerza pública y con las excepciones horarias que autoriza la ley, resguardando la integridad física de la totalidad de los actores y procurando la preservación de los medios de prueba buscados.
+3.2 Orden de allanamiento: Es el documento emitido por el juez o tribunal competente en el cual se autoriza a la Policía o Fuerzas de Seguridad a realizar el registro
+de un lugar determinado cuando existan sospechas fundadas de que en esa ubicación puedan encontrarse pruebas de un delito, personas, o elementos de interés para la investigación.
+3.3 Acta de Procedimiento: Es el instrumento público que da fe de lo sucedido y el
+relato valedero del que se nutren los distintos tribunales que intervienen en la causa
+para tener por acreditados los hechos que en ella se describen.
+3.4 Requisa Personal: Es una medida procesal de coerción real por medio de la
+cual se procura examinar el cuerpo de una persona y las cosas que lleva en sí, consigo, dentro de su ámbito personal o en vehículos, aeronaves o buques, con la finalidad de proceder a su secuestro o inspección por estar relacionadas con un delito.
+3.5 Perímetros: Son los límites de actuación de las unidades que intervienen en el
+allanamiento, circunscribiéndose a la orden emitida por la autoridad competente.
+3.6 Punto de allanamiento o punto de impacto: Es el lugar determinado en la orden, emanada de la autoridad competente, y que estará descripto por su dirección
+catastral, intersección de calles, descripción del lugar, geoposicionamiento global,
+coordenadas geográficas o cualquier otro detalle que pueda describir su ubicación,
+dentro del cual se encuentran las personas o las cosas objeto de detención o seIF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 2 de 26
+
+cuestro, respectivamente. Entendiéndose no solamente estructuras edilicias si no
+también zonas rurales, vehículos y rodados.
+3.7 Perímetro externo: Es el límite físico externo del punto de impacto, dado por la
+línea de edificación, cercos perimetrales y/o demarcaciones determinadas que se
+extiende a las inmediaciones del lugar a allanar donde se ubica el personal que intervendrá en el procedimiento, efectuará vigilancias, prestará apoyo y/o asistencia al
+objetivo central.
+3.8 Zona asegurada: Es la zona próxima al perímetro externo, la cual será determinada por las características físicas del lugar. Deberá proporcionar seguridad tanto al
+personal policial como a los testigos. Se trata de un punto de encuentro para el personal que cumplimentará la medida, el cual debe estar a más de un kilómetro de distancia del objetivo a fin de evitar sospechas del procedimiento a realizar y garantizar
+el factor sorpresa. Allí se concentrarán los grupos operativos, de irrupción, de contención, u otras cooperaciones (Scanner, canes antinarcóticos, peritos, vehículos de
+traslado de personal o detenidos, personal para registros fílmicos, etc.), siendo éste
+un lugar apto para la obtención de testigos y coordinaciones previas al cumplimiento
+de la diligencia procesal.
+3.9 Niveles de Complejidad: Cuando se tratare de un delito de resultado y de rápida definición, para el aseguramiento de la prueba y detención de sus responsables
+se deberá actuar acorde a los siguientes niveles, debiendo en todo momento el personal actuante tomar los recaudos suficientes para resguardar la vida y la seguridad
+de todos los actores del proceso. El jefe del operativo será el encargado de evaluar
+los niveles de complejidad del caso concreto:
+3.9.1 Baja complejidad: Casos en los que no se advierta una respuesta armada. El
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 3 de 26
+
+ingreso no revestirá mayor complejidad. Se utilizarán sólo elementos de efracción.
+3.9.2 Mediana complejidad: Aquellos allanamientos en los que haya un riesgo mínimo de una resistencia armada y/o física. Se utilizarán mecánicas de efracción y
+técnicas propias a través de la cooperación de grupos tácticos de irrupción que aseguren el lugar y faciliten el trabajo del personal designado para allanar.
+3.9.3 Alta complejidad: Operaciones en la que se prevé una resistencia organizada
+y violenta con el empleo de armas de fuego, explosivos o cualquier otro elemento
+similar. Los grupos de operaciones especiales, actuarán acorde a sus protocolos y,
+luego de neutralizar toda amenaza y asegurar la zona, harán entrega del lugar al
+personal actuante.
+3.10 Seguridad externa: Personal de la fuerza que se quedará brindando apoyo en
+el perímetro externo y en las inmediaciones del punto a allanar, mientras se está ingresando y asegurando el lugar, con la finalidad de evitar que cualquier efectivo que,
+sin importar el rango o carácter, no esté abocado a dicha tarea perjudique el accionar de los grupos tácticos o el personal actuante o ponga en riesgo su vida, la de
+terceros, la preservación del lugar, el secuestro y la cadena de custodia. Por ningún
+motivo se ingresará al lugar hasta que no finalice la labor del personal que asegure
+el objetivo, es decir hasta que sea decretado como zona asegurada, y asimismo,
+evitarán todo intento de fuga.
+3.11 Cadena de Custodia: Procedimiento de seguridad y control que se utiliza para
+la identificación, preservación, aseguramiento y resguardo de los indicios materiales
+abarcando desde la localización hasta su valoración por parte de los encargados del
+análisis pericial, atribuyendo responsabilidad a cada uno de sus intervinientes.
+3.12 Registros Tecnológicos: Toda imagen, fotografía, filmación, grabación o reIF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 4 de 26
+
+gistro efectuado bajo cualquier soporte tecnológico, obtenida durante la investigación
+criminal, diligencia de allanamiento o requisa que permita ilustrar una circunstancia
+específica y reflejar el accionar de los distintos partícipes y el resultado de la medida.
+II. PAUTAS ESPECÍFICAS DE ACTUACIÓN
+4. Allanamiento
+4.1 Principio general 1: El allanamiento debe ser realizado obrando orden judicial y
+1
+
+“El registro domiciliario será válido cuando la orden emane de un órgano judicial, se expida mediante auto fundado y se le impute al sujeto pasivo de la medida un accionar delictivo. Tal imputación
+podrá tener el carácter de mera sospecha, no requiere la certeza necesaria para un pronunciamiento
+condenatorio ni semiplena prueba de la culpabilidad del sujeto que deba soportarla, (…) El juez que
+ordena el registro domiciliario no debe fundar su decisión en la certeza moral de que el sujeto pasivo
+de aquélla está incurriendo en delito sino en circunstancias que demuestren, en grado de probabilidad
+compatible con el estado primigenio de la pesquisa, que la conducta ilícita se está por cometer o se
+haya en curso de ejecución”. CNCP “Müller, Carlos Eusebio s/Recurso de Casación”.
+(t.o 2017) "La ley procesal autoriza el registro domiciliario cuando hubiere motivos para presumir que
+en él existan cosas pertinentes al delito y requiere que haya una orden de juez por auto fundado (art.
+224 cód. Procesal penal). Este requisito, aunque no supone una comprobación cabal y cierta, exige
+una enunciación expresa de las razones objetivas que puedan hacer al convencimiento del juez, sin
+que baste con la aseveración de este último de su convicción subjetiva, pues es el criterio ponderado
+del magistrado y no su apreciación discrecional lo que permite hacer excepción a la garantía de inviolabilidad del domicilio". (Cámara Nacional de Apelaciones en lo Penal Económico de Capital Federal,
+Sala A, "Incidente de Nulidad de Allanamiento", Causa Nº 36.274, 17 de octubre de 1996, EDJ9079).
+(t.o 2017) “(…) la intromisión del Estado en la morada privada sólo se encuentra permitida por la ley
+en casos excepcionales y, en ellos, corresponde ejecutarla del modo y con los requisitos previstos en
+la normativa directamente aplicable. Por regla, el allanamiento debe estar autorizado por un juez y,
+además, ser motivado y fundado (arts. 123 y 224, 1er. Párrafo, CPP). Tal exigencia es consecuencia
+de la necesidad de controlar la coacción estatal y evitar la arbitrariedad de sus órganos administrativos (CSJN, in re “Matte”, en “Fallos” 325:1845)”.
+(t.o 2017) "Corresponde declarar la nulidad del auto que dispone el allanamiento y la incautación que
+resulta de la orden inválida (arts. 167, 172 y 224 del cód. Procesal penal), ya que el único motivo a
+que alude la orden es la solicitud de los funcionarios policiales, en la que se limitan a requerir el allanamiento de determinadas oficinas de la zona céntrica de la ciudad por tener conocimiento confidencial de que una firma del ramo de administración de propiedades estaría evadiendo todo tipo de impuestos tributarios sin dar ninguna explicación ni otros detalles". (Cámara Nacional de Apelaciones en
+lo Penal Económico de Capital Federal, Sala A, "Incidente de Nulidad de Allanamiento", Causa Nº
+36.274, 17 de octubre de 1996, EDJ9079).
+(t.o 2017) “En el supuesto de que el allanamiento no lo lleve a cabo personalmente el magistrado,
+para la delegación de la diligencia el a quo deberá expedir una orden de allanamiento escrita que -sin
+perjuicio de la expresada motivación y fundamento- contendrá varios requisitos (v.gr., la identificación
+de causa en la que se libra; la indicación concreta del lugar o lugares que habrán de ser registrados;
+el día y la hora; la finalidad con que se practicará el registro y la autoridad que lo llevará a cabo). El
+funcionario actuante labrará un acta de una determinada manera (arts. 138 y 139, 224, 2do. párrafo,
+CPP). (…) la exigencia de que el auto que ordena los allanamientos sea fundado, no implica forma
+sacramental alguna, ni conlleva a que el juez, que durante el trámite de la investigación decrete esa
+medida, deba volcar en la providencia una exhaustiva descripción del proceso intelectual que lo llevó
+a resolver en ese sentido, ni reclama extensión, intensidad o alcance en el razonamiento” CNCP Sala I - FIDALGO, FERNANDO JULIAN s/Ley estupefacientes”
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 5 de 26
+
+en horario diurno. 2
+4.2 Excepciones al requisito de orden judicial 3 cuando:
+
+(t.o 2017) “Por cuanto se ha omitido señalar cuales serían las razones graves o urgentes que la ordenan en contraposición a lo establecido en el art. 225 del CPPN, del objeto de la investigación iniciada
+y de las específicas particularidades y circunstancias en las que se desarrolla el accionar ilícito perseguido, se desprende nítidamente la gravedad y urgencia del caso que validan la facultad del juez
+instructor para habilitar el momento para llevar a cabo la pesquisa domiciliaria en el sub lite”
+“INCIDENTE DE NULIDAD Reg. Prop. Automotor n° 2 Quilmes s/ dcia. Inf. Art. 296 en func. 292
+C.P.”,
+2
+Art. 225 Código Procesal Penal de la Nación: “Cuando el registro deba efectuarse en un lugar habitado o en sus dependencias cerradas, la diligencia sólo podrá realizarse desde que salga hasta que
+se ponga el sol.”
+3
+Art. 227 Código Procesal Penal de la Nación. “(…) el resto de los casos donde el digesto ritual autoriza a las fuerzas de seguridad a prescindir de la orden judicial, denotan la necesidad de la concurrencia de dos factores a saber: por un lado, motivos previos que demuestren la posible comisión de
+un delito y, por otro, razones de urgencia que hagan imposible recabar la orden judicial sin frustrar el
+cumplimiento de la medida” – CNCP “M., G.A. s/Recurso de Casación” - “Es válido el ingreso de personal de Gendarmería Nacional a un campo, propiedad de terceros ajenos al hecho, pues, ante la
+notitia criminis relativa a que en ese lugar en horas nocturnas ingresaría mercadería ilegal proveniente de Paraguay, miembros de esa fuerza que se encontraban patrullando la zona, divisaron a una
+persona en la zona "de riesgo", lo cual se erigió en un "motivo suficiente" o un "indicio objetivo" a los
+fines del registro domiciliario, a lo que se adiciona la situación de urgencia, ya que de no haberse
+ingresado al predio la misión estatal se habría frustrado”. CNCP “Martínez Da Silva, Arnaldo Aníbal
+s/Recurso de Casación”.
+(t.o 2017) “(…) la situación de hecho evidenciaba la necesidad de actuar con premura, dado que no
+cabe duda de que, de haberse conducido de manera contraria, resultaba harto factible que quienes
+quisieran relevar a P. de la consecuencia jurídico-penal resultante de su acción contraria a derecho,
+extrajeran del domicilio en cuestión los elementos de prueba demostrativos de su accionar delictivo.
+En una palabra, la demora en la que se habría incurrido hasta tanto el juez librara la orden de allanamiento hubiera comprometido, verosímilmente, el éxito de la investigación (conf. en el mismo sentido,
+C. Fed. San Martín, sala 1ª, causa 2.370/04, "Inc. de nulidad defensa de Villagra, Oscar A. s/ Secuestro extorsivo", del 28/9/2004; misma Cámara, sala 2ª, causa 2.652 "Inc. de nulidad en causa ‘Monti,
+Federico s/ Secuestro extorsivo’" 14/9/2004)”. CNCP, Sala I, Pereyra Juan P, 7/07/2005
+(t.o 2017) “Si en los casos excepcionales de legítima sospecha de la posible comisión de un delito
+donde median razones de urgencia que impiden recabar la pertinente orden de allanamiento, la ley
+autoriza a las fuerzas preventoras a ingresar a una “morada”, “casa” o “local”, más aún lo hará respecto de un predio campestre donde, como en el caso de autos, el cerramiento se limita a algunos
+alambres, por lo que la expectativa de privacidad del justiciable es mucho menor.
+Por lo tanto, advertimos que el personal policial, ante el cuadro fáctico descripto, no tenía una posibilidad cierta de requerir la orden de allanamiento del predio, sin que se frustre el éxito de la medida”
+(t.o 2017) “El ingreso a la propiedad en la madrugada por parte de los funcionarios policiales es válido, pues encuadra en la excepción prevista en el artículo 227 inciso 3° del cuerpo legal citado que
+estipula que aquellos podrán allanar una morada sin previa orden judicial cuando “se introduzca en
+una casa o local algún imputado de delito a quien se persigue para su aprehensión”, lo que ocurrió en
+el sub examine.- Tanto el Suboficial M. A., el Agente J. L., como el personal de seguridad D. M. A.
+afirmaron que el acusado, luego del hecho y de que los preventores intentaran identificarlo, huyó del
+local siendo perseguido y detenido a pocas cuadras, más precisamente en …….. De esta ciudad.”V., R. F. s/ nulidad” Interlocutoria Sala VI Juzgado en lo Correccional N°9, Secretaría N° 65.(t.o 2017) “El Tribunal entiende que el planteo de nulidad no resulta procedente, toda vez que la diligencia de allanamiento llevada a cabo por orden de la agente fiscal en uso de las facultades de instrucción sumaria, se encontró avalada por las notas de urgencia y de necesidad respecto de la obtención de ciertos elementos de prueba aptos para recrear el ilícito denunciado y consecuentemente
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 6 de 26
+
+A) Por incendio, explosión, inundación u otro estrago se hallare amenazada la vida
+de los habitantes o la propiedad.
+B) Se denunciare que personas extrañas han sido vistas mientras se introducían en
+una casa o local, con indicios manifiestos de ir a cometer un delito.
+C) Se introduzca en una casa o local algún imputado de delito a quien se persigue
+para su aprehensión.
+D) Voces provenientes de una casa o local anunciaren que allí se está cometiendo
+un delito o pidan socorro.
+E) Se tenga sospechas fundadas de que en una casa o local se encuentra la víctima
+de una privación ilegal de la libertad y corra peligro inminente su vida o integridad
+física. El representante del Ministerio Público Fiscal deberá autorizar la diligencia y
+será necesaria su presencia en el lugar. 4
+En el caso en que el Fiscal no comparezca a la diligencia, estando debidamente
+atribuir la responsabilidad al enjuiciado. Tal es lo que se deriva del lineamiento trazado por la Cámara
+Nacional de Casación Penal en los autos n°6190 "Pereyra Juan P. s/ recurso de casación" y de la
+Sala II, Sec. Pen. 2, c. 3930 "Inc. de nulidad en c. 3856 Carniglia M. s/secuestro extorsivo", Rta. 24 de
+noviembre de 2005, reg. 3937, entre otras. Por consiguiente, el estado de urgencia autorizaba la realización de la diligencia de requisa (…). Esto es, la habilitación del fiscal federal para adoptar inaudita
+parte las inmediatas medidas de instrucción para no perder los rastros o para impedir que el estado
+de las cosas fuera modificado”. CFSM, Sala II, Sec. Penal 2, causa nro. 3989/05, “Huergo Verónica
+s/secuestro extorsivo”, 12/01/2006
+4
+“Observo que aunque de las constancias plasmadas en el acta de procedimiento (…) no resulta la
+presencia del agente fiscal en el momento mismo que el personal policial irrumpe en el lugar, consta
+sin embargo que los agentes de la fuerza de seguridad ‘anoticiaron’ de modo inmediato al Fiscal sobre el hallazgo y liberación de la víctima, y así también se dejó nota de las medidas que con carácter
+de urgente decretó dicho funcionario en el contexto que le fue informado. En estas condiciones si no
+se refuta que el Fiscal….estuvo en ese sitio, lo cual además viene reconociéndolo el propio impugnante, y que tomó conocimiento de lo hallado, y las providencias que se transcriben precedentemente, el hecho de que su presencia no coincida con toda la extensión temporal de la intervención de la
+policía no acarrea por sí nulidad.” CNCP Sala II “RPC s/Recurso de Casación - “…observo que la
+entrada en el inmueble sito en……del Barrio….., Villa El Pineral, localidad de Caseros, partido de
+Tres de Febrero, Pcia. de Buenos Aires, acaecido el día 8 de agosto de 2006, se concretó sobre la
+base de indicios que sustentaban razonablemente la presunción de que en el inmueble indicado podía estar la víctima del secuestro extorsivo que había sido concretado el día anterior, y que se obró
+con la finalidad de liberarla y poner a salvo su vida, según había sido puesto de manifiesto por agentes de la prevención…” “Cuando se da el supuesto de hecho del art. 227, inc. 5°, C.P.P.N., no se
+requiere que el fiscal proceda por auto fundado, sólo se requiere “autorización” de la fiscalía y la existencia de esta autorización no está puesta en discusión por la defensa.”
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 7 de 26
+
+notificado y anoticiado del hecho, la autoridad policial o de la fuerza de seguridad
+que corresponda deberá dejar constancia de su ausencia en el acta respectiva y poner inmediatamente en conocimiento de lo actuado al Ministerio Público Fiscal.
+4.3 Excepciones al requisito de horario diurno 5:
+A) a cualquier hora cuando el interesado o su representante lo consienta
+B) casos sumamente graves y urgentes
+C) cuando peligre el orden público 6
+4.4 Comunicación: Es obligación comunicar, inmediatamente, del procedimiento
+realizado en virtud de alguna de las excepciones mencionadas ut supra, a la autoridad judicial que corresponda 7.
+4.5 Consulta: Cuando fuere indispensable realizar un allanamiento o secuestro sin
+5
+
+Art. 225 Código Procesal Penal de la Nación - “Si bien los procedimientos fueron practicados a horas de la noche, el magistrado tomó en cuenta dicha circunstancia y en virtud de la urgencia e índole
+de la inflación sospechada, dispuso librar las órdenes solicitadas ese mismo día disponiendo que
+tales diligencias se concretaran más allá de los límites temporales previstos en la primera parte del
+Art. 225 del C.P.P.N., de conformidad con la excepción prevista en el segundo apartado de dicha
+norma, por otra parte, ninguno de los habitantes de los domicilios registrados manifestó su oposición
+a la realización de tal medida” – CNCP “Morales, Orlando J, s/Recurso de Casación”. A partir del precedente "Fiorentino", (Fallos, 306: 1752) el consentimiento válido prestado por el interesado para el
+ingreso de personal policial en su domicilio exime de la exigencia de la orden judicial escrita que faculte el allanamiento.
+6
+“Por ello, si bien en otros antecedentes judiciales los allanamientos dentro de la villa 1-11-14 fueron
+dispuestos en su mayoría en horario nocturno en miras a no perjudicar el éxito de los registros y evitar la ocurrencia de situaciones de conflicto, lo cierto es que, en el caso concreto de autos, las circunstancias develadas a través de la investigación aconsejan alejarse de este temperamento, planteándose la necesidad de concretar las diligencias dentro de la franja horaria ya citada, a los efectos de
+dar acabada satisfacción a los fines perseguidos a través de las medidas de prueba consideradas y,
+fundamentalmente, procurar la aprehensión de los principales responsables de esta agrupación criminal (artículo 193 del CPPN.), sin perjuicio de habilitarse día y horas inhábiles en caso de ser estrictamente necesario (artículo 225 del CPPN.).
+En este sentido, se han recabado diferentes testimonios -en especial el del Comisario ENRIQUE
+ALBERTO VILLARRUEL, a cargo de la División Operaciones Metropolitanas de la Policía Federal-, dando
+cuenta que se hallan en condiciones de desarrollar los allanamientos requeridos en el horario pretendido, pudiéndose brindar durante el desarrollo de las mismas las seguridades del caso a los testigos,
+personas que puedan encontrarse dentro de los sectores allanados y de los terceros ajenos que puedan por algún motivo verse involucrados en las diligencias.” (Jz. Fed. 12, Sec. 24, causa “Estrada
+González Marco”).
+7
+“No son nulos estos procedimientos si el personal policial convoco la presencia de dos testigos hábiles a fin de labrar las actas de detención y secuestro, y se cursó información en modo inmediato con
+la debida notificación al juez competente, quien habilito el control jurisdiccional.”- CNCP “Romero
+Saucedo, Carlos s/Recurso de Casación”.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 8 de 26
+
+orden judicial, el encargado de la actuación prevencional deberá informar inmediatamente todo lo actuado al juez competente de turno. La comunicación se deberá
+realizar, salvo motivos urgentes debidamente fundados, desde el lugar de lo actuado, dejando constancia, en un acta a realizarse en el momento, del nombre y cargo
+del funcionario u operador judicial consultado y de las medidas que se ordenasen. A
+tal efecto, los juzgados de turno con las fuerzas de seguridad especificarán los funcionarios y operadores judiciales habilitados para recibir las consultas y comunicarán
+por cualquier medio tecnológico a la autoridad prevencional las medidas que se ordenen, debiendo ser consignadas en el acta que se labre una vez finalizados los motivos que dieron lugar a la actuación de urgencia.
+Los juzgados y fiscalías de turno podrán establecer las instrucciones de actuación que consideren pertinentes, las que deberán ser comunicadas a las autoridades prevencionales por escrito y en forma previa a la vigencia de la competencia
+de turno.
+4.6 Actas: La actuación prevencional deberá consignarse preferentemente en actas,
+evitando las declaraciones testimoniales de los integrantes de una fuerza por parte
+de otros miembros de la misma fuerza. Quedará a criterio de la autoridad prevencional la elección de las formalidades en la recepción de las diligencias sumariales.
+4.7 Constatación de los requisitos de la orden de allanamiento
+4.7.1 Requisitos de la orden 8:
+
+8
+
+“La ley exige en los allanamientos la determinación del lugar donde debe efectuarse la diligencia.
+Esto hace a la racionalidad de su emisión, puesto que debe mediar algún tipo de vinculación entre el
+"situs" indicado y los hechos de la causa o las personas sospechadas. (…). La fijación de un horario
+es fundamental para resguardar la tranquilidad de las personas, teniendo en consideración el descanso y zozobra que implican determinadas acciones compulsivas en horas nocturnas. (…) La fecha,
+en cambio, tiene una doble fundamentación: poner un límite temporal al funcionario que debe ejecutarla y no demorar la tramitación del proceso en orden a los plazos que rigen la encuesta preparato-
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 9 de 26
+
+A) Forma escrita. Excepción: En caso de urgencia, se pueden utilizar medios electrónicos 9.
+B) Identificación de los agentes policiales que participen del procedimiento.
+C) Identificación de causa y finalidad.
+D) Determinación del lugar donde debe efectuarse el allanamiento.
+E) Fijación de un horario.
+F) Determinación de la fecha a efectuarse.
+4.7.2 Procedimiento:
+A) En primer lugar, se debe solicitar la medida al Juez competente mediante Informe
+que deberá contener:
+i) Ubicación e identificación del lugar. Se deberá solicitar al juez la identificación precisa del lugar objeto de la medida (ej.: número catastral). De no contar con él, como
+ria. (…)” “Chávez, Gustavo Alejandro s/ Recurso de Casación” “(…) se dirigió contra persona y morada determinadas, estuvo precedido por una solicitud del preventor y contó con el decreto judicial respectivo. La fundamentación debe serle exigida al juez dentro de un marco de razonabilidad adecuada.
+Dicha razonabilidad es una regla sustancial y que tiene como finalidad preservar del valor justicia en
+el contenido de todo acto de poder” CNCP “Andrada, Antonio A s/ Recurso de Casación.”
+(t.o 2017) “Se ha sostenido que “…la exigencia de la motivación no implica que el juez deba volcar en
+la providencia una exhaustiva descripción del proceso intelectual que lo lleva a resolver en determinado sentido, ni que debe enumerar en detalle las circunstancias fácticas que le sirven de antecedente, ni tampoco reclama una determinada extensión, intensidad o alcance del razonamiento (…). La
+concatenación de los actos previos del proceso que condujeron a la disposición del allanamiento,
+valorados de acuerdo a la sana crítica racional, constituyen razón válida para su emisión…” (CCC,
+Sala VII, 31.159, “P., G. S. s/ nulidad”, rta. 9/3/07, en la que se citó: Navarro-Daray, “Código Procesal
+Penal de la Nación”, Editorial Hammurabbi, Buenos Aires, 2004, Tomo 1, pág. 551, ver del registro de
+esta Sala con una conformación parcialmente diferente la causa nro. 1427/12 “G., L. A.”, rta.
+17/10/2012).- “L. S., J. O. s/ incidente de nulidad” Interlocutoria Sala VI Juzgado de Instrucción n° 38”
+(t.o 2017) “Lo que la ley sanciona con la nulidad no es que en el decreto que ordena la medida figure
+materialmente la fundamentación, sino que la medida surja de hechos que la tornen valedera y la
+hagan fundada, por lo que desde esta óptica el decreto cuya validez se impugna, tuvo su origen en
+los antecedentes con los cuales contaba el juez instructor. De las específicas particularidades y circunstancias en las que se desarrolla el accionar ilícito perseguido, se desprende nítidamente la gravedad y urgencia del caso que validan la facultad del juez instructor para habilitar el momento para
+llevar a cabo la pesquisa domiciliaria en el sub lite”. “Z. R., A. – A., C.F. s/incidente de nulidad”
+9
+Art. 224 3er párrafo Código Procesal Penal de la Nación: “En caso de urgencia, cuando medie delegación de la diligencia, la comunicación de la orden a quien se le encomiende el allanamiento podrá
+realizarse por medios electrónicos. El destinatario de la orden comunicará inmediatamente su recepción al Juez emisor y corroborará que los datos de la orden, referidos en el párrafo anterior, sean
+correctos. Podrá usarse la firma digital (…).”
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 10 de 26
+
+sucede en barrios urbanos y viviendas rurales, deberá solicitársele al Juez que identifique el lugar por medio de características propias, indubitables y certeras que no
+den lugar a duda respecto del lugar a allanar.
+ii) Identificación del sospechoso.
+iii) Características del hecho/denuncia que motivan el pedido.
+iv) Solicitud fundada de autorización de hora y día inhábil si las circunstancias así lo
+requieren.
+v) Solicitud fundada de autorización para la utilización de las cooperaciones que
+sean necesarias, tales como cerrajeros, grupos especiales, para un mejor desarrollo
+de la diligencia procesal.
+4.8 Allanamiento con orden y sin orden judicial:
+4.8.1 Allanamiento con orden judicial 10:
+
+10
+
+(t.o 2017) La pretensión se basó en que en oportunidad de practicarse la diligencia, se advirtió que
+en el inmueble existían dos viviendas, ubicadas respectivamente en las plantas baja y alta, y que
+“ambas…son independientes, y sólo cuentan con una pequeña entrada en común al lote del terreno… sin comunicación interna entre los departamentos”( fs. 1 vta.). Se refirió que pese a que no se
+había individualizado en cuál de los departamentos debía practicarse la medida, el personal de policía
+decidió registrar la planta baja, sin que ello estuviese especificado en la orden. A juicio del Tribunal, la
+resolución recurrida debe convalidarse, pues la medida llevada a cabo no se encuentra afectada por
+deficiencias que la tornen inválida (art. 224 del Código Procesal Penal). La orden de registro no fue
+erróneamente diligenciada, sino que se materializó en el domicilio que efectivamente se pretendía
+registrar, tal como se desprende de las tareas de inteligencia previas dirigidas a determinar si K. P. P.
+se domiciliaba en……., de esta ciudad (fs. 637). En efecto, las contingencias que tuvieron lugar al
+tiempo de la diligencia ilustran claramente que la fuerza de seguridad interviniente se dirigió a la finca
+que debía registrarse y a partir de la actitud asumida por su moradora, que se describe en el acta
+respectiva (fs. 757), y de la colaboración prestada por el habitante del restante domicilio, al cabo,
+pudo ingresarse a la buscada unidad de entre las dos viviendas que respondían a la numeración
+“…….”. Aun cuando no se está en presencia de un yerro, a todo evento se ha dicho que “se tolera el
+error si se evidencia como tal y existen elementos que permitan dar certeza al lugar que se pretendía
+registrar… La exigencia cede cuando fuere imposible la exactitud que pretende el dispositivo e igualmente se logre el propósito identificador por otras vías” (Navarro, Guillermo R. y Daray, Roberto R.,
+Código Procesal Penal de la Nación, cuarta edición, Hammurabi, Buenos Aires, 2010, tomo 2, pp.
+229-230). Cámara Nacional de Apelaciones en lo Criminal y Correccional - Sala 7 ccc
+45120/2011/17/ca17 – “P., P. K. ”. Nulidad y costas. Instr. 37.
+(t.o 2017) “(…) la finca de la calle México 1220 constituye un PH compuesto de varias habitaciones
+usurpadas por distintas familias, las cuales formaban parte de un mismo terreno con una única numeración catastral. (…) La orden glosada a fs. …. en tanto dispone el allanamiento de la finca (…) “y
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 11 de 26
+
+A) Identificación del objetivo: identificar el lugar conforme la orden de allanamiento.
+Si hay una diferencia u omisión del número catastral, el allanamiento practicado será
+válido mientras se pueda identificar el lugar por otros datos o características que den
+el mayor grado de certeza posible de que se trata del lugar descripto en la orden.
+Por otro lado, si existe una discrepancia entre el número catastral real y el detallado en la orden, y se trata de construcciones exactamente iguales, o de propiedad horizontal simétrica las cuales son únicamente diferenciables por el número catastral y no haya datos o características que permitan su individualización, se debe
+requerir una nueva orden de allanamiento que especifique correctamente el lugar
+donde debe realizarse la medida.
+B) Aseguramiento del área perimetral.
+C) Despeje: Es la acción mediante la cual se procede a la revisión integral de la totalidad de las dependencias del punto de impacto, con la finalidad de impedir que se
+produzcan agresiones por parte de sus ocupantes. Esta acción se realizará al mo-
+
+todas sus habitaciones y/o dependencias” resulta ajustada a derecho“. “Sala I CNCP: Núnez, Susana
+M. y otra s/ Recurso de Casación”
+(t.o 2017) “En resumidas cuentas, considero que la orden de allanamiento dirigida a obtener el registro de la totalidad de las habitaciones y dependencias de la finca se ajusta a las peculiares características del inmueble a allanar y al resultado de las tareas de inteligencia que autorizaban presumir –con
+el grado de certeza necesario para fundamental la diligencia de registro- que el inmueble se encontrada afectado en buena parte al ilícito tráfico de estupefacientes, lo que habilitaba su íntegra inspección para dilucidar –precisamente- en que ámbitos de la finca se detentaba el estupefaciente y en la
+esfera de custodia de cuales de sus habitantes, razón por la cual el embate de la defensa no puede
+prosperar”
+(t.o 2017) “Respecto de la entidad de la denuncia anónima para provocar la actividad policíaca, llevamos dicho que su recepción “en una dependencia policial a fin de dar cuenta de hechos delictivos
+de su conocimiento, no puede ser desconocida como fuente legítima de información promotora de la
+función prevencional propias de las fuerzas de seguridad” (Conf. nuestro voto en la causa nro. 11.685
+“Baez, Walter Causa N/ 13.132 –Sala III – C.N.C.P 591, rta. 29/4/2010). Causa N° 13.132 –Sala III –
+C.N.C.P “Mansilla, Gabriel A. s/recurso de casación “
+(t.o 2017) “Ello así, por cuanto, “si bien la información recibida a través de una llamada telefónica
+anónima no reúne los requisitos que la ley procesal impone para las denuncias, no deja de ser un
+anoticiamiento apto para desencadenar el procedimiento por iniciativa propia [de parte de las fuerzas
+de prevención], por cuanto las autoridades adquieren noticia de la comisión de un hecho con características de delito” (in re, Sala III, “Cabrera, Luis Ignacio s/recurso de casación”, causa nro. 4952).
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 12 de 26
+
+mento de la irrupción por parte del grupo táctico o el personal operativo.
+D) Aseguramiento: Acción que deba realizarse sobre la totalidad de las personas
+que deban inmovilizarse en el interior del punto de impacto, a las que se las asegurará mediante la utilización de esposas metálicas o descartables plásticas. La actuación prevencional podrá asegurar a la totalidad de moradores en el lugar, para que
+quien realice el acta pueda identificarlos y especificar el lugar donde fueron hallados.
+E) Aproximación:
+i) Sondeo blando: Es la aproximación lenta y sigilosa hasta el punto de impacto, procurando mantener la sorpresa mediante la disciplina del silencio.
+ii) Asalto Directo: Es la aproximación y desembarco directo sobre el punto de impacto, en forma terrestre, área o anfibia, conforme el terreno a allanar. Este tipo de asalto se llevará a cabo cuando prime la velocidad de ingreso y no afecte la seguridad
+del grupo, acortando el tiempo de exposición en los desplazamientos.
+F) Ingreso: Habiendo seleccionado el o los puntos de ingreso se procederá al franqueo de los mismos mediante los elementos y técnicas acordes, produciendo, de ser
+necesario, mediante las distintas técnicas o elementos indispensables, la rotura del
+cerramiento y obstáculo, con el objeto de producir un ingreso dinámico, dado que al
+momento de la irrupción se pierde el factor sorpresa.
+G) Notificación: leer la orden de allanamiento, los derechos y garantías a los testigos, morador y detenido, si los hubiese.
+H) Ingreso de testigos:
+i) DOS (2) testigos mayores de DIECIOCHO (18) años
+ii) No pertenecientes a ninguna de las Fuerzas.
+iii) No deben guardar ningún tipo de relación con el imputado.
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 13 de 26
+
+iv) Deben estar presentes durante todo el procedimiento. Pudiendo ser reemplazados cuando existan causas razonables que justifiquen dicha medida, previa comunicación a la autoridad judicial.
+v) Deben ser los primeros en ingresar. Si las fuerzas deben ingresar primero, por
+existir riesgo para su seguridad, dejar constancia de ello en el acta 11.
+vi) En el caso que no hubieran testigos, deberá dejarse constancia en el acta explicando el motivo.
+I) Entregar copia de la orden al morador.
+J) Resguardo de los niños, niñas, adolescentes, personas con capacidad restringida,
+incapaces, capacidades diferentes y mujeres embarazadas. Cuando en el lugar a
+allanar se encontraren menores de edad, personas con capacidad restringida, incapaces, con capacidades diferentes, mujeres embarazadas o víctimas en situaciones
+especiales o de crisis, se procurará alejarlos del accionar policial, haciéndolos permanecer a la guarda preferentemente de un familiar o de personal idóneo para preservar su integridad. Inmediatamente, se comunicará a la autoridad judicial a los
+efectos de solicitar indicaciones en relación a la guarda de los menores. Las instrucciones impartidas por el magistrado deberán transcribirse en el acta. 12
+K) Labrado y suscripción del acta. El Acta deberá ser confeccionada en el lugar durante el desarrollo del procedimiento. Acompañándose lo expuesto en ellas con fotos
+11
+
+Art. 224 4to párrafo Código Procesal Penal de la Nación: “Cuando por existir evidente riesgo para la
+seguridad de los testigos del procedimiento, fuese necesario que la autoridad preventora ingrese al
+lugar primeramente, se dejará constancia explicativa de ello en el acta, bajo pena de nulidad.” – ‘(…)
+Ricardo Levene (n.), quien indica que “…esta norma se refiere a casos absolutamente excepcionales
+como cuando sucede por ejemplo un tiroteo en el lugar del hecho o se presuma que pueda haberlo.
+Con ellos se intenta ejercer la protección de la vida y la salud de testigos inocentes que las fuerzas de
+seguridad tienen la obligación de salvaguardar.” (…) además, se tiene que dejar constancia explicativa en el acta –bajo pena de nulidad- que indique con claridad por qué los testigos ingresaron con
+posterioridad a la iniciación del allanamiento.’ – CNCP “Palacios, Oscar E. s/Recurso de Casación”.
+12
+Cfr. Protocolo General de Actuación para la realización de allanamientos y registros de lugares
+públicos y privados aprobado por Disposición PSA N° 834/2014 del 19/09/2014.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 14 de 26
+
+y croquis del lugar. Si por las particularidades del caso no se pudieran labrar las actuaciones allí, excepcionalmente podrá hacerse en otro lugar conveniente, dejando
+constancia de las razones que motivaron esta decisión. Asimismo, se comunicará a
+la autoridad judicial competente. Todas las Actas deberán ser firmadas por quienes
+actuaron en la diligencia. Deberán ser suscriptas por los testigos, previa lectura a
+viva voz. Si tuviera que firmar una persona no vidente o que no supiera leer, se le
+informará que el acta podrá ser leída y, en su caso, suscripta por una persona de su
+confianza, de lo que se dejará constancia. 13
+Los elementos requeridos para la realización del allanamiento, tanto para el
+ingreso como para su desarrollo, se encuentran detallados en el Anexo I del presente PGA.
+4.8.2 Allanamiento sin orden judicial:
+A) Fundar razonablemente la medida en alguna de las causales previstas para el
+allanamiento sin orden judicial conforme punto 4.2 del presente PGA y Art. 227 del
+Código Procesal Penal de la Nación.
+B) Anunciarse e identificarse en la medida en que no se perjudique el procedimiento.
+C) Ingreso de testigos: Los mismos deben cumplir con los requisitos exigidos en el
+inciso H) del punto 4.8.1 del presente PGA.
+D) Resguardo de los niños, niñas, adolescentes, personas con capacidad restringida, incapaces, capacidades diferentes y mujeres embarazadas conforme lo establecido en el punto 4.8.1 inciso J) del presente PGA.
+E) Labrado y suscripción del acta conforme punto 4.8.1 inciso K) del presente PGA.
+
+13
+
+Cfr. Protocolo General de Actuación para la realización de allanamientos y registros de lugares
+públicos y privados aprobado por Disposición PSA N° 834/2014 del 19/09/2014.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 15 de 26
+
+F) Comunicación: Es obligación poner en conocimiento inmediatamente al juez competente de todo lo actuado.
+5. Labrado del Acta
+El acta suscripta por el personal interviniente en el allanamiento, tanto el realizado
+mediando orden judicial como en virtud de algunas de sus excepciones, deberá
+obligatoriamente contener:
+A) Identificación de la causa, juez interviniente, motivo y objeto de la medida.
+B) Lugar, fecha y hora.
+C) Hora de finalización de la intervención y entrega de las instalaciones.
+D) Nombre, apellido, documento, domicilio, teléfono y calidad de las personas que
+actuaron.
+E) Nombre, apellido, documento, domicilio y teléfono de las personas que se encontraban en el lugar objeto del allanamiento.
+F) Indicación de las diligencias realizadas y su resultado, en cumplimiento de lo especificado en el punto 4.5.
+G) Declaraciones recibidas, indicando si fueron espontáneas o a requerimiento. Solamente se recepcionarán en el lugar las declaraciones de los testigos de actuación
+u otros testimonios particulares que solicite el Tribunal que intervenga. En ningún
+caso las autoridades policiales o fuerzas de seguridad podrán inquirir al imputado o
+tomarle declaración indagatoria.
+H) Motivo que haya impedido en su caso la intervención de las personas obligadas a
+asistir.
+I) Firma del funcionario actuante.
+J) Firma de los intervinientes, previa lectura, mencionando si alguno no pudo o no
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 16 de 26
+
+quiso firmar.
+Si tuviere que firmar una persona no vidente o un analfabeto, se le informará
+que el acta puede ser leída y, en su caso, suscripta por una persona de su confianza, lo que se hará constar 14.
+K) Salvar si hay enmiendas, interlineados o sobre raspados.
+L) Se hará constar si se obtuvieron vistas fotográficas, registros fílmicos, planos, que
+permitan reflejar el estado en que se hallaban las cosas y sus resultados.
+6. Requisa Personal
+6.1 Principios Básicos de Intervención
+A) Proporcionalidad entre la intensidad de afectación a la intimidad del sujeto pasivo
+de la medida y los fines que se persiguen siempre respetando la dignidad de las
+personas.
+B) Previa justificación de su necesidad y urgencia.
+6.2 Principio General:
+A) La requisa personal debe realizarse con orden judicial.
+B) La orden fundada debe ser emanada de la autoridad judicial competente.
+C) De tratarse de múltiples requisas, se realizarán separadamente, respetando el
+pudor de las personas.
+D) Si se realiza sobre una mujer será efectuada por otra 15.
+E) La medida debe ser practicada dentro de los límites y modalidades establecidos
+en la orden judicial.
+
+14
+
+Art. 139 Código Procesal Penal de la Nación: “(…) Si tuviere que firmar un ciego o un analfabeto,
+se le informará que el acta puede ser leída y, en su caso, suscrita por una persona de su confianza, lo
+que se hará constar”
+15 Inciso modificado por texto ordenado 2017.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 17 de 26
+
+6.3 Requisa con orden judicial 16:
+6.3.1 Procedimiento
+A) Identificación del encargado del procedimiento y de quien lo ejecute materialmente dando a conocer a los requisados los motivos de la medida.
+B) Se solicita a la/s persona/s a exhibir el objeto o elemento que se presumiere ilícito.
+C) La requisa se realizará sobre el cuerpo, vestimenta y cosas que lleva consigo o
+en el ámbito de su custodia.
+D) La requisa realizada obrando orden judicial consistirá en un examen integral del
+cuerpo.
+E) Si se detecta algún elemento extraño que pudiera constituir un objeto prohibido o
+ilícito, se actuará en consecuencia y se comunicará conforme la vía jerárquica operativa, dando intervención a la autoridad judicial competente, a fin de que esta resuelva sobre la intensidad a seguir en la requisa.
+F) Testigos:
+i) DOS (2) testigos mayores de DIECIOCHO (18) años, conforme punto 4.8.1 inciso
+H) del presente PGA.
+ii) No pertenecientes a ninguna de las Fuerzas.
+iii) En el caso de imposibilidad de reunión de testigos, dejar constancia en el acta
+
+16
+
+Art. 230 Código Procesal Penal de la Nación: “El juez ordenará la requisa de una persona, mediante decreto fundado, siempre que haya motivos suficientes para presumir que oculta en su cuerpo
+cosas relacionadas con un delito. Antes de proceder a la medida podrá invitársela a exhibir el objeto
+de que se trate.
+Las requisas se practicarán separadamente, respetando el pudor de las personas. Si se hicieren sobre una mujer serán efectuadas por otra.
+La operación se hará constar en acta que firmará el requisado; si no la suscribiere, se indicará la causa. La negativa de la persona que haya de ser objeto de la requisa no obstará a ésta, salvo que mediaren causas justificadas”
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 18 de 26
+
+explicando el motivo.
+G) Confección del acta.
+H) Suscripción del acta por el requisado. En caso de negarse o imposibilidad se indicará la causa.
+6.4 Requisa sin orden judicial 17:
+
+17
+
+Art. 230 bis Código Procesal Penal de la Nación: “Los funcionarios de la policía y fuerza de seguridad, sin orden judicial, podrán requisar a las personas e inspeccionar los efectos personales que lleven consigo, así como el interior de los vehículos, aeronaves y buques, de cualquier clase, con la
+finalidad de hallar la existencia de cosas probablemente provenientes o constitutivas de un delito o de
+elementos que pudieran ser utilizados para la comisión de un hecho delictivo de acuerdo a las circunstancias particulares de su hallazgo siempre que sean realizadas:
+a) con la concurrencia de circunstancias previas o concomitantes que razonable y objetivamente
+permitan justificar dichas medidas respecto de persona o vehículo determinado; y,
+b) en la vía pública o en lugares de acceso público.
+La requisa o inspección se llevará a cabo, de acuerdo a lo establecido por el 2° y 3er. párrafo del
+artículo 230, se practicarán los secuestros del artículo 231, y se labrará acta conforme lo dispuesto
+por los artículos 138 y 139, debiendo comunicar la medida inmediatamente al juez para que disponga
+lo que corresponda en consecuencia.
+Tratándose de un operativo público de prevención podrán proceder a la inspección de vehículos.
+“La facultad establecida en el artículo 184 inc. 5 que posee la policía para requisar urgentemente, sin
+autorización judicial reviste carácter excepcional y a su vez deben verificar dos extremos: a) el primero que se refiere a la justificación del acto, y consiste en la existencia de motivos suficientes para
+sospechar que un sujeto lleva sobre su persona cosas que pueden ser útiles para la averiguación de
+un delito y b) el segundo relativo a la temporalidad del acto, esto es a la existencia de una razón de
+urgencia que justifique la actuación inmediata por parte del personal policial” – CNCP "Palacios, Gustavo M. s/Recurso de Casación".
+(t.o 2017) “En este procedimiento la policía solicitó a los imputados sus documentos de identificación
+y luego los invitó a que exhibieran sus pertenencias, sin hallar elementos relacionados con la comisión de un delito. Por ello, “con anuencia del conductor” procedió a requisar el vehículo, habiendo
+encontrado en dicha oportunidad el material estupefaciente que luego incautó. La cuestión radica
+aquí en dilucidar si el “consentimiento” prestado por el conductor del rodado permite prescindir de las
+formalidades que la ley exige para intervenir en la intimidad de los ciudadanos o, por el contrario, si
+aquél carece de ese efecto legitimante. (…) únicamente para autorizar el allanamiento con orden
+nocturno el legislador le ha dado validez al consentimiento, lo cual no resulta aplicable al caso, ya que
+se trataba de la requisa de un automóvil, realizada sin orden judicial y durante el horario diurno. Asimismo, el hecho de que la requisa se haya realizado con “anuencia” del conductor no significa que se
+trate de un consentimiento válido, ya que la sola presencia de la fuerza pública podría implicar coacción suficiente para producir una aquiescencia viciada o, cuanto menos, basada en un error acerca de
+las facultades del requirente”. “Dora Carlos Yamil y otros s/ infracción ley 23.737”.
+(t.o 2017) “He tenido ocasión de señalar que la mera circunstancia de que un agente policial realice
+controles poblacionales no es, de por sí, violatorio de ninguna garantía constitucional, en tanto ello
+constituye un medio para llevar adelante las funciones que le han asignado en el decreto-ley 333/58
+(entre otras, “velar por el mantenimiento del orden público”, cfr. art. 4). En este sentido, coincido con
+la opinión del Procurador Fiscal ante la Corte Suprema, Dr. González Warcalde, en el sentido de que
+los procedimientos de identificación personal en lugares públicos o de acceso público, en ejercicio del
+poder de policía estatal, por razones de seguridad general o con miras a la prevención de contravenciones y delitos no merecen, en principio, reproche alguno (vid. dictamen de la PGN del 10/4/08, en
+C. 224, L. XLIII y el presentado en la causa “Ciraolo” -Fallos 332:2397-)”.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 19 de 26
+
+(t.o 2017) “Surge así que el motivo por el cual la policía decidió pedirles a los acusados sus documentos fue que mientras las autoridades porteñas inspeccionaban un local comercial, ellos consideraron
+necesario identificar a los clientes del bar (…) En cuanto a la requisa personal de los justiciables,
+estuvo motivada en razón de que, cuando los preventores le requirieron a la pareja los documentos
+identificatorios, C. M. exhibió un DNI apócrifo. En esta dirección, la medida se encuentra amparada
+por lo dispuesto en el art. 230 bis del código de rito, y teniendo en cuenta las circunstancias anteriormente apuntadas, no parece irrazonable la requisa respecto de su pareja, aun cuando ésta no hubiese llegado a mostrar su identificación”
+(t.o 2017) “En primer lugar, el artículo 230 del C.P.P.N. faculta al juez a “ordenar mediante decreto
+fundado la requisa de una persona cuando hubiera motivos suficientes para presumir que oculta en
+su cuerpo cosas relacionadas con un delito.” La ley requiere la existencia de motivos previos que lo
+hagan presumir fundadamente, no meras corazonadas sin fundamento alguno”.
+(t.o 2017) “(…) habilitaría el pedido de identificación realizado por la policía. No obstante, dicho precedente no es aplicable a este caso puesto que allí personal policial decidió identificar a los ocupantes de un automóvil que se hallaba estacionado, en horas de la noche, frente a un local comercial,
+con vidrios polarizados y con patente colocada B. 1947639 (patente no habilitada para circular en
+función del cambio del sistema de patentes), con tres personas en su interior y uno en la vereda. Ante
+aquella circunstancia particular se dijo que la identificación de los ocupantes del auto estaba justificada por motivos previos puesto que la hora y el modo en que se encontraba detenido el auto, con vidrios polarizados y chapa patente vencida, era una circunstancia que fundadamente hacía presumir
+que sus ocupantes podían cometer un delito o una contravención (circular con una chapa patente
+vencida)”. “Jabot” Sala I CNCP (causa 2998, rta. el 24/10/00, reg. 3865)”
+(t.o 2017) “La Constitución Nacional garantiza a las personas, además del derecho a conducirse libres, un ámbito de reserva que se extiende a la intimidad, impidiendo y limitando para casos excepcionales, cualquier tipo de intromisión en esta esfera. Sin embargo, como bien es sabido ninguno de
+estos derechos son absolutos, pues se encuentran sometidos a reglamentación, siempre y cuando su
+afectación resulte razonable y no implique su total aniquilación (art. 1, 18 y 28 de la Constitucional
+Nacional)”. “la ley procesal ha reglamentado su afectación, requiriendo a tal efecto como condición
+necesaria, que existan motivos suficientes para presumir que la persona que es objeto de intromisión
+estatal, oculta en su cuerpo cosas relacionadas con un delito. En este caso, será el Juez quien mediante 4 resolución fundada dispondrá la medida (art. 230 del C.P.P.N.).Por tanto, esta situación se
+presenta como la primera excepción a la regla constitucional que garantiza el derecho a conducirse
+libremente y a preservar un ámbito de intimidad sobre las personas. Sin embargo, luego de entrada
+en vigencia la nueva legislación procesal (ley 23.984), el Congreso de la Nación, estableció una excepción a esta excepción, autorizando al personal de las fuerzas de seguridad a requisar aún sin
+contar con la orden de un Juez competente (art. 23 bis del C.P.P.N. incorporado por la Ley 25.434)”
+“Gianni” (L° 418 F° 186)
+(t.o 2017) “Debe entenderse que las circunstancias que habilitan a las fuerzas de seguridad a efectuar una requisa personal son excepcionales y la interpretación de las normas que rigen la cuestión
+debe ser de carácter restrictivo, con la finalidad de no violentar el principio de legalidad (conf. fallo
+C.S.J.N. “Daray”). Ciertamente, el Código Procesal Penal vigente ha establecido como regla que las
+disposiciones sobre la libertad e intimidad de las personas son de competencia de los Jueces de la
+Nación. Ello así, no obstante autorizar con carácter excepcional a las fuerzas de seguridad mediante
+el artículo 230 bis (incorporado por ley 25.434) a practicar directamente requisa personal sin mediar
+orden escrita de juez competente, siempre y cuando se den las condiciones objetivas que exige la
+norma; todo ello con el objetivo de impedir que el actuar de los funcionarios se vea frustrado frente a
+la urgencia y la dificultad de acceder en tiempo oportuno a la orden judicial de requisa. Siguiendo este
+entendimiento, la motivación que debe guiar a las fuerzas de seguridad, al igual que se dispone en el
+caso del artículo 230 del C.P.P.N. para el caso del Juez competente, debe ser la de hallar cosas provenientes o constitutivas de un delito o elementos que puedan ser utilizados para la comisión. Además de exigir que los hechos se produzcan en la vía pública, y con la concurrencia de circunstancias
+previas o concomitantes que razonablemente y objetivamente permitan justificar la medida. En conclusión, el personal de las fuerzas de seguridad necesariamente deben tener en su poder datos objetivos suficientes que permitan conjeturar razonablemente que el individuo a quien se pretende requisar guarda en su persona o vehículo, alguno de los elementos que indica la norma, y además, que la
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 20 de 26
+
+A) Indicios suficientes fundados en información y/o conductas previas que permitan
+inferir que la persona sobre la cual recaerá la medida, haya cometido, se encuentre
+cometiendo o pueda cometer un ilícito penal.
+B) Que la persona y sus cosas se encuentren en la vía pública o lugares de acceso
+público general o restringido o en aquellos lugares a los que se debió acceder por
+razones de urgencia
+C) Únicamente se realizará un palpado sobre la ropa y objetos que porta, comenzando desde la cabeza, siguiendo en cuello, brazos, tronco y piernas, intentando
+detectar el o los elementos que motivaron la necesidad de la medida que pueda
+ocultarse entre las prendas de vestir y los objetos.
+urgencia del caso imposibilita requerir al Juez competente la orden judicial respectiva. Conforme surge de la transcripción parcial de las normas que rigen la materia, el legislador exige un determinado
+grado o estado de sospecha para validar la detención o la requisa corporal de una persona. Ciertamente, requiere como condición necesaria que existan "indicios vehementes" "circunstancias debidamente fundadas" o "motivos suficientes para presumir". En otras palabras, más allá de la excepcionalidad, el policía no se encuentra facultado para llevar a cabo detenciones irrazonables, pues su
+actuar funcional se deberá adecuar a la exigencia de la ley procesal, que requiere un particular grado
+de sospecha para validar una detención sin orden judicial. Pero además de encontrarse en la situación objetiva a la cual hace mención la norma, el agente policial, deberá dar cuenta objetivamente
+cuales son las circunstancias a partir de las cuales funda "indicios vehementes" "circunstancias debidamente fundadas" o "motivos suficientes para presumir". Es decir, se debe tratar de causas comprobadas, y no meras conjeturas carentes de asidero objetivo. Ello así, pues no puede exigirse menos a
+los funcionarios policiales que a los Jueces, quienes para emitir la orden judicial de detención y requisas, deben fundar y dar motivos de los resuelto. De la misma forma, la exteriorización de las circunstancias objetivas que llevaron a policía a detener y requisar una persona, permitirá a los jueces ejercer un debido control de legalidad y razonabilidad sobre la conducta funcional de las fuerzas de seguridad”. “P. L. A. p.s.a. Infracción ley 23.737”
+(t.o 2017) (…)” el requisito mencionado se refiere a la justificación del acto y a tal fin es importante
+saber sobre qué elementos de juicio la prevención determinó el "estado de sospecha" respecto del
+individuo sometido a requisa personal, siendo que éste debe existir en el momento mismo en que se
+produce la interceptación en la vía pública pues es allí cuando la policía debe tener ya razones suficientes para suponer que una persona está en posesión de elementos que demuestran la comisión
+de un delito; de lo contrario, como se ha afirmado en la jurisprudencia norteamericana, una aprehensión o requisa ilegal a su inicio no puede quedar validada por su resultado”. “CNCP Sala III “Ayunes,
+Horacio O. y otros s/recurso de casación”
+(t.o 2017) "...el requisito de la existencia de motivos suficientes exige un cierto grado de sospecha
+para realizar una requisa. Éstos son elementos de juicio o consideraciones concretas de la vida cotidiana, es decir, elementos objetivos que deben justificar la realización de la requisa en cada caso
+concreto. Es por ello que los motivos suficientes del art. 230 del C.P.P.N. no se asemejan a las presunciones sino a los indicios, en tanto estos últimos son hechos de los cuales, mediante una operación lógica, se puede inferir la existencia de otros hechos”. CNCP Sala II "Álvarez, Miguel Antonio
+s/recurso de casación"
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 21 de 26
+
+Ante la negativa de una persona a someterse a la requisa, se solicitará inmediatamente la autorización judicial para llevar adelante la misma, excepto que por
+razones de urgencia se realice sin esa orden. 18 De lo contrario, será pasible de las
+sanciones previstas por el Art. 239 del Código Penal de la Nación. 19
+6.5 Información del resultado
+A) Requisa con orden judicial: dar aviso a la autoridad competente para anoticiarlo
+sobre el resultado de la medida.
+B) Sin orden judicial: Cuando en uso de las facultades de actuación prevencional se
+deba realizar una requisa personal y ésta arrojare resultado positivo, se deberá poner en inmediato conocimiento de lo actuado a la autoridad competente.
+C) En ambos casos se deberá actuar en cumplimiento de lo reglado en el punto 4.5.
+6.6 Acta
+El acta suscripta por el personal interviniente en la requisa, aún si fue realizada sin orden judicial, deberá obligatoriamente contener:
+A) Fecha, hora y lugar.
+B) Nombre y apellido de los intervinientes.
+C) Indicación de las diligencias realizadas y su resultado. Identificando tanto a quienes participaron activamente de la diligencia como quienes efectuaron el hallazgo de
+pruebas o elementos relacionados con un delito.
+D) Declaraciones recibidas indicando si fueron espontáneas o a requerimiento.
+E) Motivo que haya impedido en su caso la intervención de las personas obligadas
+18
+
+Cfr. Protocolo General de Actuación para la realización de requisas sobre las personas aprobado
+por Disposición PSA N° 223/2015 del 06/05/2015
+19
+Será reprimido con prisión de quince días a un año, el que resistiere o desobedeciere a un funcionario público en el ejercicio legítimo de sus funciones o a la persona que le prestare asistencia a requerimiento de aquél o en virtud de una obligación legal.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 22 de 26
+
+a asistir.
+F) Firma del funcionario actuante.
+G) Firma de los intervinientes, previa lectura, mencionando si alguno no pudo o no
+quiso firmar.
+H) Salvar si hay enmiendas, interlineados o sobre raspados.
+Si tuviere que firmar una persona no vidente o un analfabeto, se le informará
+que el acta puede ser leída y, en su caso, suscripta por una persona de su confianza, lo que se hará constar 20.
+7. Secuestro y Cadena de Custodia
+El juez podrá disponer el secuestro de las cosas relacionadas con un delito,
+las sujetas a decomiso o aquellas que puedan servir como medios de prueba.
+Esta medida será dispuesta y cumplida por los funcionarios de la policía o de
+las fuerzas de seguridad, cuando se produjere el hallazgo de esas cosas y fuera resultado de un allanamiento o de una requisa personal dejando constancia de ello en
+el acta respectiva y dando cuenta inmediata del procedimiento realizado al juez o
+fiscal intervinientes.
+Los elementos de prueba serán recolectados según las reglas aplicables al
+tipo de objeto, garantizando la cadena de custodia 21.
+El material secuestrado deberá ser clasificado, e introducido para su resguardo en bolsas plásticas transparentes las cuales deberán cumplir con los requisitos
+
+20
+
+Art. 139 Código Procesal Penal de la Nación: “(…) Si tuviere que firmar un ciego o un analfabeto,
+se le informará que el acta puede ser leída y, en su caso, suscrita por una persona de su confianza, lo
+que se hará constar”
+21
+“Son procedentes las medidas que disponen el secuestro y custodia de objetos que "prima facie"
+integran el cuerpo del delito. Existe habilitación legal para detener y requisar cuando se tienen motivos racionalmente bastantes para creer que está pasando o está a punto de pasar algo criminalmente
+relevante”. CNCP “Romero Saucedo, Carlos s/Recurso de Casación”.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 23 de 26
+
+de seguridad para evitar la contaminación de la prueba.
+Cuando se tratare de estupefacientes y precursores químicos se estará a las
+disposiciones establecidas en el “PROTOCOLO ÚNICO PARA ASEGURAR LA
+PRESERVACIÓN, TRASLADO Y CUSTODIA DE LOS ESTUPEFACIENTES Y
+PRECURSORES
+
+QUÍMICOS
+
+SECUESTRADOS
+
+HASTA
+
+SU
+
+EFECTIVA
+
+DESTRUCCIÓN”, aprobado por Resolución MS N° 858/2011 de fecha 01/09/2011.
+Si se tratare de indicios materiales (manchas secas, indicios húmedos, material biológico, etc.) deberá ajustarse a lo establecido en el Anexo II del presente PGA
+respecto de la “recolección, embalaje y etiquetado de distintos indicios” y al
+“PROTOCOLO DE ACTUACIÓN PARA LA PRESERVACIÓN DE LA ESCENA DEL
+HECHO Y SUS PRUEBAS” aprobado por Resolución MS N° 792/2015 de fecha
+03/12/2015.
+7.1 Custodia del objeto secuestrado
+Los efectos secuestrados serán inventariados y puestos, bajo segura custodia,
+a disposición del tribunal. En caso necesario podrá disponerse su depósito.
+El juez podrá ordenar la obtención de copias o reproducciones de las cosas
+secuestradas cuando éstas puedan desaparecer, alterarse, sean de difícil custodia o
+convenga así a la instrucción.
+Las cosas secuestradas serán aseguradas con el sello del tribunal y con la
+firma del juez y secretario, debiéndose firmar los documentos en cada una de sus
+hojas.
+Si fuere necesario remover los sellos, se verificará previamente su identidad e
+integridad. Concluido el acto, aquéllos serán repuestos y de todo se dejará constan-
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 24 de 26
+
+cia22.
+Si en estricto cumplimiento de la orden de allanamiento se encontraren objetos que evidencien la comisión de un delito distinto al que motivó la orden, se procederá al resguardo de la prueba y, desde el lugar, se entablará comunicación con la
+autoridad que emitió la orden. 23
+7.2 Secuestro de correspondencia
+Cuando en el marco de una investigación en el que se ordenare un allanamiento y el secuestro de correspondencia los funcionarios de la policía y fuerzas de
+seguridad no podrán abrir la correspondencia que secuestren, sino que la remitirán
+intacta a la autoridad judicial competente. Sin embargo, en los casos urgentes, podrán concurrir a la más cercana jurisdiccionalmente, la que podrá autorizar la apertura si lo creyere oportuno 24.
+
+22
+
+Art. 233 Código Procesal Penal de la Nación: “Los efectos secuestrados serán inventariados y puestos, bajo segura custodia, a disposición del tribunal. En caso necesario podrá disponerse su depósito.
+El juez podrá ordenar la obtención de copias o reproducciones de las cosas secuestradas cuando
+éstas puedan desaparecer, alterarse, sean de difícil custodia o convenga así a la instrucción.
+Las cosas secuestradas serán aseguradas con el sello del tribunal y con la firma del juez y secretario,
+debiéndose firmar los documentos en cada una de sus hojas.
+Si fuere necesario remover los sellos, se verificará previamente su identidad e integridad. Concluido
+el acto, aquéllos serán repuestos y de todo se dejará constancia”.
+23
+Cfr. Protocolo General de Actuación para la realización de allanamientos y registros de lugares
+públicos y privados aprobado por Disposición PSA N° 834/2014 del 19/09/2014.
+24
+Art. 185 Código Procesal Penal de la Nación: “Los funcionarios de la policía y fuerzas de seguridad
+no podrán abrir la correspondencia que secuestren, sino que la remitirán intacta a la autoridad judicial
+competente; sin embargo, en los casos urgentes, podrán ocurrir a la más inmediata, la que autorizará
+la apertura si lo creyere oportuno”.
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 25 de 26
+
+IF-2017-10788241-APN-SECCPJMPYL#MSG
+
+página 26 de 26
+
+

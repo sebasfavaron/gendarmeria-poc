@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Puesto de control en ruta: POC Gendarmería</title>
+<link rel="icon" href="data:,">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<canvas id="scene" aria-hidden="true"></canvas>
+<div class="reticle" id="reticle" hidden></div>
+
+<header class="hud" id="hud" hidden>
+  <div class="hud-left">
+    <div class="counts" aria-live="polite">
+      <div><span>Revisado</span><strong id="cInspected">0</strong></div>
+      <div><span>Irregulares</span><strong id="cMarked">0</strong></div>
+    </div>
+    <button class="btn ghost small" id="notesBtn" type="button" aria-label="Abrir la libreta">Libreta <span class="badge" id="cNotes">0</span></button>
+  </div>
+  <button class="btn primary small" id="endBtn" type="button" aria-label="Terminar inspección">Terminar</button>
+</header>
+<div class="toast" id="toast" role="status"></div>
+
+<div class="stick" id="stick" hidden><div class="knob" id="knob"></div></div>
+<div class="actions" id="actionsCol" hidden>
+  <div id="acts" class="acts"></div>
+  <div class="tools">
+    <button class="crouch" id="torchBtn" type="button" aria-pressed="false">Linterna</button>
+    <button class="crouch" id="crouchBtn" type="button" aria-pressed="false">Agacharse</button>
+  </div>
+</div>
+
+<!-- Inspección: el panel deja ver el encuadre de cerca -->
+<div class="overlay view" id="inspect" hidden role="dialog" aria-modal="false" aria-labelledby="inTitle">
+  <div class="panel">
+    <h2 id="inTitle"></h2>
+    <div class="visual" id="inVisual" hidden></div>
+    <p id="inText"></p>
+    <div class="chips" id="inActs" hidden></div>
+    <p class="result" id="inResult" role="status" hidden></p>
+    <p class="mark-state" id="inState"></p>
+    <div class="row">
+      <button class="btn ghost" id="markIrr" type="button">Marcar como irregular</button>
+      <button class="btn ghost" id="markOk" type="button">No es irregular</button>
+    </div>
+    <button class="btn ghost" id="inClose" type="button">Seguir revisando</button>
+  </div>
+</div>
+
+<!-- Charla con el conductor -->
+<div class="overlay view" id="talk" hidden role="dialog" aria-modal="false" aria-labelledby="talkTitle">
+  <div class="panel">
+    <h2 id="talkTitle">Conductor</h2>
+    <ol class="log" id="log" aria-live="polite"></ol>
+    <div class="qs" id="qs"></div>
+    <button class="btn ghost" id="talkClose" type="button">Seguir revisando</button>
+  </div>
+</div>
+
+<!-- Libreta -->
+<div class="overlay" id="notes" hidden role="dialog" aria-modal="true" aria-labelledby="notesTitle">
+  <div class="panel">
+    <h2 id="notesTitle">Libreta</h2>
+    <p class="muted">Lo que viste, mediste y te respondieron, en el orden en que lo anotaste.</p>
+    <ol class="log" id="notesList"></ol>
+    <button class="btn ghost" id="notesClose" type="button">Cerrar</button>
+  </div>
+</div>
+
+<!-- Decisión -->
+<div class="overlay" id="decide" hidden role="dialog" aria-modal="true" aria-labelledby="decTitle">
+  <div class="panel">
+    <h2 id="decTitle">¿Cómo seguís?</h2>
+    <div id="decMarked"></div>
+    <div class="choices" id="decChoices"></div>
+    <button class="btn ghost" id="decBack" type="button">Volver a revisar</button>
+  </div>
+</div>
+
+<section class="screen" id="intro">
+  <div class="panel">
+    <h1>Puesto de control en ruta</h1>
+    <p class="lead">Ruta Nacional 34, norte de Salta, 19:50. Ya se puso el sol. Sos gendarme en un puesto de control fijo y una Toyota Hilux blanca acaba de detenerse para el control.</p>
+    <p>No hay pasos guiados. Caminá alrededor de la camioneta, hablá con el conductor y revisá lo que te parezca. Podés medir, golpear y alumbrar; lo que ves y te dicen queda anotado en la libreta. Marcá lo que consideres irregular y, cuando termines, decidí cómo seguir.</p>
+    <p>Cada partida es un caso distinto: la camioneta puede tener irregularidades o no tener ninguna.</p>
+    <div class="controls" id="controlsHelp"></div>
+    <label class="check"><input type="checkbox" id="soundChk" checked> Con sonido</label>
+    <div class="row"><button class="btn primary" id="startBtn" type="button">Empezar la inspección</button></div>
+    <p class="muted">Prototipo de validación. El procedimiento es ilustrativo y tiene que revisarse con instructores y la normativa vigente.</p>
+  </div>
+</section>
+
+<section class="screen" id="debrief" hidden>
+  <div class="panel">
+    <h1 id="dbTitle"></h1>
+    <p class="lead" id="dbText"></p>
+    <div class="stats">
+      <div class="stat"><span>Indicios detectados</span><strong id="dbFound"></strong></div>
+      <div class="stat"><span>Falsos positivos</span><strong id="dbFalse"></strong></div>
+      <div class="stat"><span>Tiempo</span><strong id="dbTime"></strong></div>
+    </div>
+    <p class="muted" id="dbCase"></p>
+    <h2>Tu decisión</h2>
+    <ol class="review" id="dbDecision"></ol>
+    <h2>Lo que había para ver</h2>
+    <ol class="review" id="dbList"></ol>
+    <div id="dbNotes" class="notes"></div>
+    <div class="row">
+      <button class="btn primary" id="newBtn" type="button">Caso nuevo</button>
+      <button class="btn ghost" id="retryBtn" type="button">Repetir este caso</button>
+    </div>
+    <button class="btn ghost" id="logBtn" type="button">Descargar registro de la partida</button>
+    <p class="muted">Prototipo de validación. El procedimiento es ilustrativo y tiene que revisarse con instructores y la normativa vigente.</p>
+  </div>
+</section>
+
+<noscript><p style="padding:24px">Este prototipo necesita JavaScript.</p></noscript>
+
+<!-- three.js r128 local para que funcione sin internet. Alternativa por CDN:
+     https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js -->
+<script src="vendor/three.min.js"></script>
+<script src="escenario.js"></script>
+<script src="caso.js"></script>
+<script src="main.js"></script>
+<!-- sw: guarda la app para abrirla sin conexión (solo por https; build.py lo saca de dist/) -->
+<script>
+if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) navigator.serviceWorker.register('sw.js').catch(() => {});
+</script>
+<!-- /sw -->
+</body>
+</html>

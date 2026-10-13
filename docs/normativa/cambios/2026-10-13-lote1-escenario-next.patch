@@ -1,0 +1,54 @@
+--- a/src/next/escenario.js
++++ b/src/next/escenario.js
+@@ -178,7 +178,9 @@
+    */
+   decisiones: [
+     { id: 'derivar',
+-      t: 'Le pido que estacione en el área de revisión, informo al jefe de puesto, consulto el dominio y el número de chasis, y pido un can detector. Con testigos, doy intervención a la fiscalía federal antes de la requisa.',
++      // Requisa sin orden judicial: indicios objetivos previos, dos testigos ajenos a la fuerza, aviso de la
++      // sospecha al conductor, acta y comunicación inmediata a la fiscalía (CPPF arts. 137-138, PGA 6.4).
++      t: 'Le pido que estacione en el área de revisión, informo al jefe de puesto, consulto el dominio y el número de chasis, y pido un can detector. Con dos testigos ajenos a la fuerza, le explico qué sospecho y lo invito a mostrarlo antes de la requisa. Labro el acta y doy aviso a la fiscalía federal.',
+       v: { limpio: 'partial', otro: 'best' },
+       titulo: { limpio: 'Demora sin indicios' },
+       end: {
+@@ -187,8 +189,8 @@
+         doblada: 'El número de chasis correspondía al dominio {real}, una camioneta con pedido de secuestro: tenía la patente doblada. El can no marcó nada en la caja.',
+         completo: 'Con el can detector y testigos, la requisa encontró un compartimiento oculto bajo el piso de la caja, con carga sin declarar. El número de chasis correspondía al dominio {real}, una camioneta con pedido de secuestro: tenía la patente doblada.' },
+       fb: {
+-        limpio: 'Sin indicios concretos, derivar a una requisa completa demora a una persona sin motivo. La decisión tiene que apoyarse en lo que encontraste.',
+-        otro: 'Ante indicios concretos, derivaste a revisión, verificaste la identidad del vehículo y dejaste la requisa para hacerla con testigos e intervención de la fiscalía.' } },
++        limpio: 'Sin indicios concretos, derivar a una requisa demora a una persona sin motivo. Una requisa sin orden judicial solo es válida si antes hay circunstancias objetivas que la justifiquen; el nerviosismo o una corazonada no alcanzan, y la justicia anula las requisas hechas sin sospecha previa.',
++        otro: 'Ante indicios concretos, derivaste a revisión y verificaste la identidad del vehículo. Para la requisa sin orden judicial, los indicios tienen que estar antes de empezar y quedar escritos en el acta, con dos testigos ajenos a la fuerza y aviso inmediato a la fiscalía.' } },
+     { id: 'consultar',
+       t: 'Consulto el dominio por radio y, si no tiene novedades, lo dejo seguir.',
+       v: { limpio: 'best', otro: 'partial' },
+@@ -200,7 +202,7 @@
+         completo: 'La consulta del dominio {dominio} no tuvo novedades, porque la patente estaba doblada. La camioneta siguió viaje con la carga oculta.' },
+       fb: {
+         limpio: 'Sin indicios, la consulta del dominio y la documentación en regla alcanzan para dejarlo seguir.',
+-        oculto: 'La consulta sola no alcanza: los papeles pueden estar en regla y la carga, escondida. Los indicios físicos justificaban la revisión.',
++        oculto: 'La consulta sola no alcanza: los papeles pueden estar en regla y la carga, escondida. Los indicios físicos eran circunstancias objetivas que justificaban una requisa sin orden judicial.',
+         otro: 'La consulta sola no alcanza: con la patente doblada, el sistema devuelve los datos de otro vehículo. Los indicios justificaban la revisión.' } },
+     { id: 'dejar',
+       t: 'Lo dejo seguir: la documentación está en regla.',
+@@ -223,7 +225,19 @@
+         limpio: 'Levantaste el piso de la caja sin testigos y no había nada. El conductor hizo una denuncia por el procedimiento.',
+         doblada: 'Levantaste el piso de la caja sin testigos y no había nada. La patente doblada quedó sin verificar.',
+         otro: 'Había un compartimiento oculto, pero lo abriste sin testigos ni intervención de la fiscalía. El procedimiento puede quedar invalidado y el conductor se puso a la defensiva.' },
+-      fb: 'Sin testigos ni intervención judicial, lo que encuentres puede no servir como prueba. Tampoco es seguro actuar solo.' }
++      fb: 'Sin testigos, sin acta y sin aviso a la fiscalía, lo que encuentres puede no servir como prueba. Decirle que sabés que lleva algo lo trata como culpable: tenés que explicarle qué sospechás y qué buscás, e invitarlo a mostrarlo. Tampoco es seguro actuar solo.' },
++    // El consentimiento del conductor no habilita la requisa (PGA 6.4, fallo "Dora").
++    { id: 'consentimiento',
++      t: 'Le pregunto si me deja revisar la caja. Si me dice que sí, la reviso con mi compañero.',
++      v: { otro: 'wrong' },
++      titulo: { limpio: 'Revisión sin motivo', otro: 'Procedimiento en riesgo' },
++      end: {
++        limpio: 'El conductor dijo que sí y revisaron la caja entre los dos. No había nada.',
++        doblada: 'El conductor dijo que sí y revisaron la caja entre los dos. No había nada, y la patente doblada quedó sin verificar.',
++        otro: 'El conductor dijo que sí y encontraron un compartimiento oculto. Sin testigos ni acta, y con un permiso que no vale como autorización, la defensa puede pedir la nulidad.' },
++      fb: {
++        limpio: 'Sin indicios no había motivo para revisar, y que el conductor acepte no lo cambia: frente a la fuerza pública, ese permiso puede no ser libre.',
++        otro: 'Que el conductor acepte no reemplaza los requisitos de la requisa: frente a la fuerza pública, ese permiso puede no ser libre. Lo que la habilita son los indicios, con dos testigos ajenos a la fuerza, el acta y el aviso a la fiscalía.' } }
+   ],
+ 
+   // Cuántos indicios hay que detectar para un "Procedimiento correcto": una fracción del total del caso.

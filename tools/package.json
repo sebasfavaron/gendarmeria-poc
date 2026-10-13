@@ -1,0 +1,20 @@
+{
+  "name": "gendarmeria-poc-tools",
+  "private": true,
+  "type": "commonjs",
+  "description": "Herramientas de desarrollo: pruebas automáticas, armado de assets y de dist/. El prototipo no las necesita para funcionar.",
+  "scripts": {
+    "test": "node test-caso.js && node test-assets.js",
+    "smoke": "node smoke.js"
+  },
+  "devDependencies": {
+    "@gltf-transform/core": "^4.2.1",
+    "@gltf-transform/extensions": "^4.2.1",
+    "@gltf-transform/functions": "^4.2.1",
+    "esbuild": "^0.28.2",
+    "meshoptimizer": "^0.25.0",
+    "playwright-core": "^1.48.0",
+    "sharp": "^0.34.0",
+    "three": "0.186.1"
+  }
+}
