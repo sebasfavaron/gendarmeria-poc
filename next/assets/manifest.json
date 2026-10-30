@@ -1,0 +1,553 @@
+{
+ "version": "18e2037b73",
+ "niveles": {
+  "alta": {
+   "archivos": {
+    "cielo.luz": {
+     "url": "assets/alta/cielo-luz.f5523c.hdr",
+     "bytes": 1309268,
+     "sha256": "f5523ccff787d3811eb88b1eba0b6aad12444a4af743710777c9c68ae2e3b81e",
+     "fuente": "polyhaven:evening_road_01_puresky"
+    },
+    "cielo.fondo": {
+     "url": "assets/alta/cielo-fondo.60d0e1.jpg",
+     "bytes": 197554,
+     "sha256": "60d0e14c434a484890383a4331435009c57c0b1e38228c6939420c702a35dc94",
+     "fuente": "polyhaven:evening_road_01_puresky",
+     "meta": {
+      "escala": 0.15699247868141267,
+      "giro": 1.8328748896559839,
+      "horizonte": [
+       0.9263526324940622,
+       1.018946665185438,
+       0.9920189417947943
+      ]
+     }
+    },
+    "tex.asfalto.color": {
+     "url": "assets/alta/tex-asfalto-color.7a4fc5.webp",
+     "bytes": 1480296,
+     "sha256": "7a4fc56e8e3373b46669fadfec191cb160578ccf06b5292a6b0ba8766e019739",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.asfalto.normal": {
+     "url": "assets/alta/tex-asfalto-normal.220d3c.webp",
+     "bytes": 450876,
+     "sha256": "220d3c77464d96d1f7312fda9f3d8a724287ab88d53b47eef3e343eb37752c33",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.asfalto.arm": {
+     "url": "assets/alta/tex-asfalto-arm.c09160.webp",
+     "bytes": 969674,
+     "sha256": "c09160dac9ae2b07dfbcc97434b8b326f439e6592cd6eebc638c548717d27286",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.banquina.color": {
+     "url": "assets/alta/tex-banquina-color.8a1745.webp",
+     "bytes": 294060,
+     "sha256": "8a1745203ba987bea39818060e9c8ba57b4d83d60b91a7e8473b1b51ccd3b85e",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.banquina.normal": {
+     "url": "assets/alta/tex-banquina-normal.a791c3.webp",
+     "bytes": 559642,
+     "sha256": "a791c33da3956246795ba7133ba3eea4d148c10cbbce9f50239bb4acb46f763d",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.banquina.arm": {
+     "url": "assets/alta/tex-banquina-arm.00325c.webp",
+     "bytes": 251352,
+     "sha256": "00325c91f4dd4cb04e06db58a4c30db676678d9e35cf9fc4b05bebee5e975a54",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.monte.color": {
+     "url": "assets/alta/tex-monte-color.f4e9af.webp",
+     "bytes": 210188,
+     "sha256": "f4e9af408aeca116a0cbc3232119408d8c3bd7713e98c50bf474a8b5bca51529",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.monte.normal": {
+     "url": "assets/alta/tex-monte-normal.c17e48.webp",
+     "bytes": 584106,
+     "sha256": "c17e482f061765ced4c555d47379d4571b1d014d61297abd5af93c3c6f6d2d74",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.monte.arm": {
+     "url": "assets/alta/tex-monte-arm.eb3255.webp",
+     "bytes": 201130,
+     "sha256": "eb32556620debe195fabeb3681edc17e9f5383b5a65ee2fecaf06503b4fcfeb1",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.revoque.color": {
+     "url": "assets/alta/tex-revoque-color.7d9744.webp",
+     "bytes": 119992,
+     "sha256": "7d974431a7722e3078eecccac41f79b3d434b390bd0559293ce3a54ab2d6d2c8",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.revoque.normal": {
+     "url": "assets/alta/tex-revoque-normal.203898.webp",
+     "bytes": 275500,
+     "sha256": "203898ac450bafdb0ec02b246b1f679ca3ad0cf72ba48b733f4eb32727720891",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.revoque.arm": {
+     "url": "assets/alta/tex-revoque-arm.4c801e.webp",
+     "bytes": 9690,
+     "sha256": "4c801eee869e8c78582a28f3195bf68e701957fe624dfce9434aa0fe095d54db",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.chapa.color": {
+     "url": "assets/alta/tex-chapa-color.8b4c44.webp",
+     "bytes": 141508,
+     "sha256": "8b4c4421a3fe82effadd3966cb87826a761b00b9659c090b4225249db3f9c5e6",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "tex.chapa.normal": {
+     "url": "assets/alta/tex-chapa-normal.be6360.webp",
+     "bytes": 151908,
+     "sha256": "be6360af912db426bcbd65251f4102ea5e2822c2b9fe6469e39652718472c9ca",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "tex.chapa.arm": {
+     "url": "assets/alta/tex-chapa-arm.879942.webp",
+     "bytes": 25282,
+     "sha256": "87994284090c495ecd2973c4aa6b3ce226bfd1fcd4d946a2b198f0fc0cb9fceb",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "obj.cemento": {
+     "url": "assets/alta/obj-cemento.e30952.glb",
+     "bytes": 135508,
+     "sha256": "e309527460e433ae8797c1b65abdf672198dfe97e71331d99d43b3a12db61a70",
+     "fuente": "polyhaven:cement_bag"
+    },
+    "obj.termo": {
+     "url": "assets/alta/obj-termo.648dec.glb",
+     "bytes": 197512,
+     "sha256": "648dec8ec5f15435e68d10cb5eae2e56906c3ca2355dc3ff8b362baf8d0f7b95",
+     "fuente": "polyhaven:plastic_thermos"
+    },
+    "obj.cigarrillos": {
+     "url": "assets/alta/obj-cigarrillos.8554e4.glb",
+     "bytes": 201860,
+     "sha256": "8554e45f1c9e26343230bc8270defe1f861fbfefe636fe22a29e4ca01d27b2df",
+     "fuente": "polyhaven:cigarette_pack"
+    },
+    "obj.cajon": {
+     "url": "assets/alta/obj-cajon.74ab5d.glb",
+     "bytes": 606580,
+     "sha256": "74ab5ddad74fec33639ef02be3031e5cc540dffc0dbb64d757298ef1a8d9198b",
+     "fuente": "polyhaven:plastic_crate_01"
+    },
+    "obj.bidon": {
+     "url": "assets/alta/obj-bidon.c74c31.glb",
+     "bytes": 448388,
+     "sha256": "c74c31e49c02cb29035671a60a49b512b4453b8108f7e0b906b4a8bed385e722",
+     "fuente": "polyhaven:plastic_jerrycan"
+    },
+    "obj.caja": {
+     "url": "assets/alta/obj-caja.54a8de.glb",
+     "bytes": 276904,
+     "sha256": "54a8de241e87a5b624ed455255322bb9855066fe5c96d886caec1adda10ec737",
+     "fuente": "polyhaven:cardboard_box_01"
+    },
+    "obj.barrera": {
+     "url": "assets/alta/obj-barrera.997f74.glb",
+     "bytes": 495972,
+     "sha256": "997f745cf164d47051b7fad20f25b72d8d99e1075048082d4278e968a4e66b05",
+     "fuente": "polyhaven:concrete_road_barrier"
+    },
+    "obj.arbol1.color": {
+     "url": "assets/alta/obj-arbol1-color.9740b1.webp",
+     "bytes": 319788,
+     "sha256": "9740b1db771ca7db6fa76a19ed6bf3214d18da28547210ecce4b7160152d4515",
+     "fuente": "polyhaven:searsia_lucida",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 2.3856979772821068,
+        "alto": 2.338919585570693
+       },
+       {
+        "lado": 2.0339941353723408,
+        "alto": 1.9941118974238634
+       },
+       {
+        "lado": 1.713437091037631,
+        "alto": 1.6798402853310108
+       },
+       {
+        "lado": 1.4520699835941195,
+        "alto": 1.4235980231314898
+       },
+       {
+        "lado": 1.0546271467208863,
+        "alto": 1.0249980594962835
+       },
+       {
+        "lado": 0.7533768782671542,
+        "alto": 0.738604782614857
+       },
+       {
+        "lado": 0.8025736762862653,
+        "alto": 0.7868369375355542
+       }
+      ]
+     }
+    },
+    "obj.arbol2.color": {
+     "url": "assets/alta/obj-arbol2-color.f80c8b.webp",
+     "bytes": 157856,
+     "sha256": "f80c8bf6b695fa7721eae2519d5c054b88a7afff83c18f7652e0c46528e721fa",
+     "fuente": "polyhaven:searsia_burchellii",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 4.241306147575378,
+        "alto": 3.239040695130825
+       },
+       {
+        "lado": 3.6469117641448974,
+        "alto": 2.5874337069690228
+       },
+       {
+        "lado": 1.9744628988951445,
+        "alto": 1.9357479400932789
+       }
+      ]
+     }
+    },
+    "obj.arbusto.color": {
+     "url": "assets/alta/obj-arbusto-color.31ed59.webp",
+     "bytes": 17318,
+     "sha256": "31ed59a48deb81fe68030d29f353e8cedd039a2bb47c7b10f78a4f8ba5ce09d8",
+     "fuente": "polyhaven:shrub_02",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 2.201394028935245,
+        "alto": 2.158229440132593
+       },
+       {
+        "lado": 2.1044730895547588,
+        "alto": 1.9539081294317668
+       },
+       {
+        "lado": 2.5328349709214715,
+        "alto": 2.3815157996350242
+       },
+       {
+        "lado": 1.9856169989998285,
+        "alto": 1.946683332352773
+       }
+      ]
+     }
+    },
+    "hilux": {
+     "url": "assets/alta/hilux.1fc7a6.glb",
+     "bytes": 6104696,
+     "sha256": "1fc7a6059e69b125b45ffc18f4ce938e5231745b734143381110ac23cac537d2",
+     "fuente": "sketchfab:toyota-hilux-revo-prerunner-2021"
+    },
+    "conductor": {
+     "url": "assets/alta/conductor.20f797.glb",
+     "bytes": 2433488,
+     "sha256": "20f7976900ee7b149220515ca6180e22cdf65da6486488628e385c80b1745eb2",
+     "fuente": "rocketbox:Wood_Male_01"
+    },
+    "companero": {
+     "url": "assets/alta/companero.5193d0.glb",
+     "bytes": 557188,
+     "sha256": "5193d09fef2f9ace660daa58658d0ec87a9226599fc8f21d31883a3116a3acfc",
+     "fuente": "rocketbox:Construction_Male_08"
+    },
+    "anim.espera": {
+     "url": "assets/alta/anim-espera.8dc65c.glb",
+     "bytes": 56876,
+     "sha256": "8dc65cb9456b8d21c59e346b4196605b7ea49a0c491df2b2028aec3abfc28c1f",
+     "fuente": "rocketbox:animaciones"
+    },
+    "anim.sentado": {
+     "url": "assets/alta/anim-sentado.c3e0f6.glb",
+     "bytes": 35964,
+     "sha256": "c3e0f614d96a6443c1a1685bf093a8c45a9828728d72abb7ed57eba7522fb7d4",
+     "fuente": "rocketbox:animaciones"
+    }
+   },
+   "total": 19277924
+  },
+  "liviana": {
+   "archivos": {
+    "cielo.luz": {
+     "url": "assets/liviana/cielo-luz.f5523c.hdr",
+     "bytes": 1309268,
+     "sha256": "f5523ccff787d3811eb88b1eba0b6aad12444a4af743710777c9c68ae2e3b81e",
+     "fuente": "polyhaven:evening_road_01_puresky"
+    },
+    "cielo.fondo": {
+     "url": "assets/liviana/cielo-fondo.7d774d.jpg",
+     "bytes": 74117,
+     "sha256": "7d774d42aadc369d6918fc41760d61322ead59f6e29cef45de50961c91469692",
+     "fuente": "polyhaven:evening_road_01_puresky",
+     "meta": {
+      "escala": 0.15699247868141267,
+      "giro": 1.8328748896559839,
+      "horizonte": [
+       0.9263526324940622,
+       1.018946665185438,
+       0.9920189417947943
+      ]
+     }
+    },
+    "tex.asfalto.color": {
+     "url": "assets/liviana/tex-asfalto-color.8e1350.webp",
+     "bytes": 363944,
+     "sha256": "8e1350718ae4b16e3b50cf87c7cd07acce7b08ca330ba8d40bc3537cb0f840c0",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.asfalto.normal": {
+     "url": "assets/liviana/tex-asfalto-normal.220d3c.webp",
+     "bytes": 450876,
+     "sha256": "220d3c77464d96d1f7312fda9f3d8a724287ab88d53b47eef3e343eb37752c33",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.asfalto.arm": {
+     "url": "assets/liviana/tex-asfalto-arm.dd011c.webp",
+     "bytes": 291610,
+     "sha256": "dd011c43f7858238c9dde5ee68dc82ee8b6fbd04814cf25d4e7fff68f2e15ee9",
+     "fuente": "polyhaven:asphalt_02"
+    },
+    "tex.banquina.color": {
+     "url": "assets/liviana/tex-banquina-color.e49324.webp",
+     "bytes": 72330,
+     "sha256": "e49324009317bde2f3e6174a5cb98d8041ad099707a459feb44fdae587417b86",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.banquina.normal": {
+     "url": "assets/liviana/tex-banquina-normal.ba8b78.webp",
+     "bytes": 142072,
+     "sha256": "ba8b787d9ca23a895afa5fa99c6de301b44ab3022fd969ffe825abf830f1a43c",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.banquina.arm": {
+     "url": "assets/liviana/tex-banquina-arm.6e424c.webp",
+     "bytes": 74368,
+     "sha256": "6e424ce4e83890fcfb3cba8366873e118e9e2b912ea09a195b9dcaea30555db4",
+     "fuente": "polyhaven:rocky_trail"
+    },
+    "tex.monte.color": {
+     "url": "assets/liviana/tex-monte-color.16e093.webp",
+     "bytes": 46548,
+     "sha256": "16e093090bee75b896bab47f6f8236747861611276595a12c1c89f98724ca42c",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.monte.normal": {
+     "url": "assets/liviana/tex-monte-normal.b8c3ff.webp",
+     "bytes": 128642,
+     "sha256": "b8c3fff2c91ae8c7e9b881c39fd75bca798b2795aaee36b232f25008a7a6e8bd",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.monte.arm": {
+     "url": "assets/liviana/tex-monte-arm.b4cd61.webp",
+     "bytes": 46070,
+     "sha256": "b4cd61788f9100b85d6bb00490301f54368c59e0b1283571026ddc8b02a8ddb5",
+     "fuente": "polyhaven:sparse_grass"
+    },
+    "tex.revoque.color": {
+     "url": "assets/liviana/tex-revoque-color.ca07a1.webp",
+     "bytes": 10052,
+     "sha256": "ca07a187743ca09586e067effabdccd2677b7e8b531bf0e624087bd0f3a1766b",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.revoque.normal": {
+     "url": "assets/liviana/tex-revoque-normal.1cff79.webp",
+     "bytes": 31688,
+     "sha256": "1cff79754e36bf0e3a07d093b6d811efbdd80922076972df8060b90f6fae6195",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.revoque.arm": {
+     "url": "assets/liviana/tex-revoque-arm.447dbb.webp",
+     "bytes": 1966,
+     "sha256": "447dbba0df64972d6daecaf3dbbe1b6493c29c3ccffe5442aaf661ce3fa20d9b",
+     "fuente": "polyhaven:painted_plaster_wall"
+    },
+    "tex.chapa.color": {
+     "url": "assets/liviana/tex-chapa-color.46f4ee.webp",
+     "bytes": 41980,
+     "sha256": "46f4ee6bb57c2212f69284790f65ffb05a21ec5977a42cacc0018856e93cdfbe",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "tex.chapa.normal": {
+     "url": "assets/liviana/tex-chapa-normal.e5ce04.webp",
+     "bytes": 15780,
+     "sha256": "e5ce040c47fca08c254347832aea6818bf73470d9200f4bdab9387eb29c87bfe",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "tex.chapa.arm": {
+     "url": "assets/liviana/tex-chapa-arm.10dc7d.webp",
+     "bytes": 6150,
+     "sha256": "10dc7d8ccedaf4a14ca38ab4cf500663c086395506b252ddab301764f5b85a42",
+     "fuente": "polyhaven:corrugated_iron"
+    },
+    "obj.cemento": {
+     "url": "assets/liviana/obj-cemento.2fcc04.glb",
+     "bytes": 55452,
+     "sha256": "2fcc04bc5c7f3b687d8998ba73661e3038dfa354bf6a1fa326e21792ab904949",
+     "fuente": "polyhaven:cement_bag"
+    },
+    "obj.termo": {
+     "url": "assets/liviana/obj-termo.a44f21.glb",
+     "bytes": 68880,
+     "sha256": "a44f2132183690e32aa04c3a2c26e9aee059b23116c0d53e800405d4ab781196",
+     "fuente": "polyhaven:plastic_thermos"
+    },
+    "obj.cigarrillos": {
+     "url": "assets/liviana/obj-cigarrillos.3503ec.glb",
+     "bytes": 81244,
+     "sha256": "3503ecd33725406907bd81f437f0cb8030a79950421c3602b6627bfbad533533",
+     "fuente": "polyhaven:cigarette_pack"
+    },
+    "obj.cajon": {
+     "url": "assets/liviana/obj-cajon.56735c.glb",
+     "bytes": 310336,
+     "sha256": "56735c9e08044aef539dcc5b16bd35ef6f5eb17e8ca5d0e43188c1b1c3e86231",
+     "fuente": "polyhaven:plastic_crate_01"
+    },
+    "obj.bidon": {
+     "url": "assets/liviana/obj-bidon.26fc84.glb",
+     "bytes": 149760,
+     "sha256": "26fc8474f5afa548a7e22ec0600fe8578ada8ae020009eb988bd1ed869f9eafb",
+     "fuente": "polyhaven:plastic_jerrycan"
+    },
+    "obj.caja": {
+     "url": "assets/liviana/obj-caja.c0c9f8.glb",
+     "bytes": 107936,
+     "sha256": "c0c9f894b18f71799c90ba03867bc50208ef70986ef0db97975350eb76642bda",
+     "fuente": "polyhaven:cardboard_box_01"
+    },
+    "obj.barrera": {
+     "url": "assets/liviana/obj-barrera.146e8b.glb",
+     "bytes": 137584,
+     "sha256": "146e8b559864f9e85594055aa52f83730965eb54ef3c297b9deb6f49c2b82cbc",
+     "fuente": "polyhaven:concrete_road_barrier"
+    },
+    "obj.arbol1.color": {
+     "url": "assets/liviana/obj-arbol1-color.080a88.webp",
+     "bytes": 202688,
+     "sha256": "080a88052617ad94e05dfd55705d2bbe4e9f342de38db8bab40c86d2cbbfe2a1",
+     "fuente": "polyhaven:searsia_lucida",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 2.3856979772821068,
+        "alto": 2.338919585570693
+       },
+       {
+        "lado": 2.0339941353723408,
+        "alto": 1.9941118974238634
+       },
+       {
+        "lado": 1.713437091037631,
+        "alto": 1.6798402853310108
+       },
+       {
+        "lado": 1.4520699835941195,
+        "alto": 1.4235980231314898
+       },
+       {
+        "lado": 1.0546271467208863,
+        "alto": 1.0249980594962835
+       },
+       {
+        "lado": 0.7533768782671542,
+        "alto": 0.738604782614857
+       },
+       {
+        "lado": 0.8025736762862653,
+        "alto": 0.7868369375355542
+       }
+      ]
+     }
+    },
+    "obj.arbol2.color": {
+     "url": "assets/liviana/obj-arbol2-color.a203a9.webp",
+     "bytes": 84356,
+     "sha256": "a203a9fd7f31edc697d70ba837d0eae038993fde9d2480477d8e56fe141d2d04",
+     "fuente": "polyhaven:searsia_burchellii",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 4.241306147575378,
+        "alto": 3.239040695130825
+       },
+       {
+        "lado": 3.6469117641448974,
+        "alto": 2.5874337069690228
+       },
+       {
+        "lado": 1.9744628988951445,
+        "alto": 1.9357479400932789
+       }
+      ]
+     }
+    },
+    "obj.arbusto.color": {
+     "url": "assets/liviana/obj-arbusto-color.fc82f2.webp",
+     "bytes": 15990,
+     "sha256": "fc82f2cf884ddf9ef74b2876feadeb4604ffd2cbe17e5649d70fc8839275ec97",
+     "fuente": "polyhaven:shrub_02",
+     "meta": {
+      "variantes": [
+       {
+        "lado": 2.201394028935245,
+        "alto": 2.158229440132593
+       },
+       {
+        "lado": 2.1044730895547588,
+        "alto": 1.9539081294317668
+       },
+       {
+        "lado": 2.5328349709214715,
+        "alto": 2.3815157996350242
+       },
+       {
+        "lado": 1.9856169989998285,
+        "alto": 1.946683332352773
+       }
+      ]
+     }
+    },
+    "hilux": {
+     "url": "assets/liviana/hilux.389b32.glb",
+     "bytes": 4297616,
+     "sha256": "389b3214abe811e1657df934a607a04a8cde92c3c7d049b46b5f6986bc5634a2",
+     "fuente": "sketchfab:toyota-hilux-revo-prerunner-2021"
+    },
+    "conductor": {
+     "url": "assets/liviana/conductor.6e2375.glb",
+     "bytes": 677004,
+     "sha256": "6e23751fbce9082cbd96e01aafcfc49273df97659dda811a1d4fcdeb0c8338cc",
+     "fuente": "rocketbox:Wood_Male_01"
+    },
+    "companero": {
+     "url": "assets/liviana/companero.5193d0.glb",
+     "bytes": 557188,
+     "sha256": "5193d09fef2f9ace660daa58658d0ec87a9226599fc8f21d31883a3116a3acfc",
+     "fuente": "rocketbox:Construction_Male_08"
+    },
+    "anim.espera": {
+     "url": "assets/liviana/anim-espera.8dc65c.glb",
+     "bytes": 56876,
+     "sha256": "8dc65cb9456b8d21c59e346b4196605b7ea49a0c491df2b2028aec3abfc28c1f",
+     "fuente": "rocketbox:animaciones"
+    },
+    "anim.sentado": {
+     "url": "assets/liviana/anim-sentado.c3e0f6.glb",
+     "bytes": 35964,
+     "sha256": "c3e0f614d96a6443c1a1685bf093a8c45a9828728d72abb7ed57eba7522fb7d4",
+     "fuente": "rocketbox:animaciones"
+    }
+   },
+   "total": 9946335
+  }
+ }
+}
